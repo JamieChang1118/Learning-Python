@@ -10,16 +10,3 @@ print(x)
 print(x.get('體重'))
 print(x.get('身高'))
 
-
-print('\n------------練習------------------')
-
-str = '體重=68.0,身高=156.0'
-
-y = dict(item.split('=') for item in str.split(','))
-print(type(y))
-
-w = float(y.get('體重'))
-h = float(y.get('身高'))
-bmi = w / pow(h/100 , 2)
-
-print('bmi = %.2f' %(bmi))
