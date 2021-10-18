@@ -33,6 +33,4 @@ print(a)
 a.reverse()
 print(a)
 
-print('\n------------練習--------------')
-
 
