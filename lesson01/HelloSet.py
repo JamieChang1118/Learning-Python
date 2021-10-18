@@ -28,11 +28,3 @@ while len(lotto) < 6 :
     lotto.add(random.randint(1,46))
 print(lotto)
 
-
-print('\n--------------練習--------------------')
-
-
-lotto2 = set()
-while len(lotto2) < 6:
-    lotto2.add(random.randint(1,10))
-print(lotto2)
