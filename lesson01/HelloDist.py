@@ -65,9 +65,3 @@ print(exam)
 exam.clear()
 print(exam)
 
-print('\n---------練習-----------------')
-
-
-
-
-
