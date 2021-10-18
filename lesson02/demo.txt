@@ -1,0 +1,3 @@
+    Hello Python
+Hello World000000
+000000歡迎光臨
