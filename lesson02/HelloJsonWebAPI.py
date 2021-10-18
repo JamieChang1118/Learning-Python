@@ -27,8 +27,3 @@ with open('weather_icon.png' , 'wb') as file:
     file.write(icon_data)
 
 
-print('\n-------------------練習------------------------')
-
-
-
-

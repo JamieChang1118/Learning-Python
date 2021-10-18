@@ -27,14 +27,3 @@ for p in person:
     bmi = w / pow(h/100 , 2)
     print("%.2f" %(bmi))
 
-
-print('\n--------------練習-----------------')
-
-x = '[{"name":"john" , "age":18 , "profile":{"w":60.0 , "h":170.0}},' \
-    '{"name":"jim" , "age":18 , "profile":{"w":60.0 , "h":180.0}}]'
-
-data = json.loads(x)
-person1 = data[0]['name']
-person2 = data[1]['name']
-
-print(person1 + '\n' + person2)

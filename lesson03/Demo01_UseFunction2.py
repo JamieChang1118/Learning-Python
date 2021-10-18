@@ -45,5 +45,3 @@ print(score)
 updateScore()
 print(score)
 
-
-print('\n-------------練習---------------------')

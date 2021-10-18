@@ -14,5 +14,3 @@ for item in youbike['result']['records']:
     if bemp >= 20 and sbi >= 20:
         print("%s bemp=%d sbi=%d" %(sna,bemp,sbi))
 
-
-print('\n-------------------練習------------------------')

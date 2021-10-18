@@ -3,5 +3,4 @@ file.write('Hello Python\n')
 file.write('Hello World\n')
 file.write('歡迎光臨\n')
 
-print('\n----------------練習----------------------')
 

@@ -19,6 +19,3 @@ print({'A':100 , 'B':80}.get('C', None))    # 沒有 C 所以印出 None
 
 {'1': lambda : print('男') , '2': lambda : print('女')}.get('3' , lambda : print('Error'))()
 
-
-print('\n------------練習--------------')
-

@@ -23,10 +23,3 @@ def calcArea2(r=10):
 print(calcArea2())
 
 
-print('\n---------------練習-------------------')
-
-def calc2(r):
-    area2 = pow(r , 2) * math.pi
-    return area2
-
-print(calc2(5))

@@ -40,10 +40,4 @@ while n > 0:
     print("Python" , end=" , ")
     n -= 1
 
-print('\n--------練習----------------')
-
-while True:
-    aa = random.randint(1,11)
-    print('{}是偶數喔'.format(aa) if aa % 2 == 0 else '{}是奇數喔'.format(aa))
-    break
 
