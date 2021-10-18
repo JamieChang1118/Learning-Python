@@ -14,3 +14,4 @@ print(sub(3))
 print(calc(add , 3))
 print(calc(sub , 3))
 
+print(calc(add , 4))
